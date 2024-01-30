@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ankon Chowdhury</h1>
+<h3 align="center">A full-stack Laravel Web Developer</h3>
 
-<!--
-**AnkonChy/AnkonChy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnkonChy" alt="AnkonChy" /></a> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Laravel, Vue JS, JQuery etc.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Laravel, Php, Javascript, Vue JS**
+
+- 📫 How to reach me **ankonchy1@gmail.com**
+
+- ⚡ Fun fact **I'm not saying I'm sarcastic, but if sarcasm were a sport, I'd probably have a gold medal... or at least a really clever trophy**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ankonchybd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankon-chowdhury" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/angon.chy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="angon.chy" height="30" width="40" /></a> -->
+</p>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <!-- Add any additional Laravel-specific tools and technologies here -->
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankonchy&show_icons=true&locale=en" alt="ankonchy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankonchy&" alt="ankonchy" /></p>
