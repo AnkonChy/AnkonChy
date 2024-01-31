@@ -1,7 +1,7 @@
 <aside class="sidebar-wrapper" data-simplebar="true">
     <div class="sidebar-header">
       <div>
-        <h4 class="logo-text">PROJECT</h4>
+        <h4 class="logo-text">EasyBus</h4>
       </div>
     </div>
     <!--navigation-->

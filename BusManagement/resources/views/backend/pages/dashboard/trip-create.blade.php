@@ -1,7 +1,7 @@
 @extends('backend.layout.app')
 @section('content')
     <!--start breadcrumb-->
-    <h1 class="text-center">Create Location</h1>
+    <h1 class="text-center">Create Trip</h1>
     <div style="width:500px; margin:0px auto;">
         <form action="{{ route('trip.store') }}" method="post">
             @csrf

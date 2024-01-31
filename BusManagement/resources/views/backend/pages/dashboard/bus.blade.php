@@ -3,7 +3,7 @@
   <!--start breadcrumb-->
   <div class="positon-relative">
     <div class="d-flex">
-      <h1>Product Data</h1>
+      <h1>Bus Data</h1>
       <div class="position-absolute end-0 me-4">
         <a class="btn btn-primary" href="{{ route('bus.create') }}">Add New</a>
       </div>

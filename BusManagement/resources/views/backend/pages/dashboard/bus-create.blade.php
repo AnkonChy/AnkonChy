@@ -14,7 +14,7 @@
         <input type="supervisorName" class="form-control" name="supervisorName" id="supervisorName" placeholder="supervisor name..." required>
       </div>
       <div class="mb-3">
-        <label for="supervisorNumber" class="form-label">Supervisor Number *</label>
+        <label for="supervisorNumber" class="form-label">Supervisor Stopage Number *</label>
         <input type="number" class="form-control" name="supervisorNumber" id="supervisorNumber" placeholder="stopage order..." required>
       </div>
       <button type="submit" class="btn btn-primary">Create</button>
