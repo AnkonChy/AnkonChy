@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnkonChy" alt="AnkonChy" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, React JS, Express JS, MongoDb etc.**
+- 🌱 I’m currently learning **JavaScript, React JS, Express JS, MongoDb, Tailwind CSS etc.**
 
-- 💬 Ask me about **JavaScript, React JS, Express JS, Laravel, PHP**
+- 💬 Ask me about **JavaScript, React JS, Express JS, Laravel, PHP, Tailwind, HTML**
 
 - 📫 How to reach me **ankonchy1@gmail.com**
 
@@ -20,10 +20,52 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+    alt="react"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+    alt="nodejs"
+    width="40"
+    height="40"
+  />
+</a>
+
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+    alt="express"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+    alt="mongodb"
+    width="40"
+    height="40"
+  />
+</a>
+
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
+    alt="tailwindcss"
+    width="40"
+    height="40"
+  />
+</a>
+
+ 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <!-- Add any additional Laravel-specific tools and technologies here -->
