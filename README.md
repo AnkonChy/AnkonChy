@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ankon Chowdhury</h1>
 <h3 align="center">A Frontend Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnkonChy" alt="AnkonChy" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnkonChy" alt="AnkonChy" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, React JS, Express JS, MongoDb, Tailwind CSS etc.**
 
 - 💬 Ask me about **JavaScript, React JS, Express JS, Laravel, PHP, Tailwind, HTML**
 
-- 📫 How to reach me **ankonchy1@gmail.com**
+- 📫 How to reach me: **ankonchy1@gmail.com**
 
-- ⚡ Fun fact **I'm not saying I'm sarcastic, but if sarcasm were a sport, I'd probably have a gold medal... or at least a really clever trophy**
+- ⚡ Fun fact: **Sarcasm isn't a sport, but I'd still have a gold medal!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
