@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/9cZGqyZ/Ankon-Chowdhury.png" alt="Ankon Chowdhury Banner" />
+  <img src="https://i.ibb.co.com/9cZGqyZ/Ankon-Chowdhury.png" alt="Ankon Chowdhury Banner" style="width:100%;" />
 </p>
 <h1 align="center">Hi 👋, I'm Ankon Chowdhury</h1>
 <h3 align="center">A Frontend Developer</h3>
