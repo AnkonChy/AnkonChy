@@ -6,18 +6,18 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnkonChy" alt="AnkonChy" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, React JS, Express JS, MongoDb, Tailwind CSS etc.**
+- 🌱 Currently learning **Next.JS, Shadcn UI, Redux, Express JS, etc.**
 
-- 💬 Ask me about **JavaScript, React JS, Express JS, Laravel, PHP, Tailwind, HTML**
+- 💬 Ask me about **JavaScript, React JS, Express JS, Tailwind, MongoDB, Laravel, PHP**
 
-- 📫 How to reach me: **ankonchy1@gmail.com**
+- 📫 Reach me at: **ankonchy1@gmail.com**
 
 - ⚡ Fun fact: **Sarcasm isn't a sport, but I'd still have a gold medal!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ankonchybd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankon-chowdhury" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/angon.chy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="angon.chy" height="30" width="40" /></a> -->
+<a href="https://x.com/AnkonChy2682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankon-chowdhury" height="30" width="40" /></a>
 </p>
 </p>
 
@@ -59,7 +59,7 @@
 
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a>
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
     alt="tailwindcss"
@@ -71,7 +71,15 @@
  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <!-- Add any additional Laravel-specific tools and technologies here -->
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
+  </a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankonchy&show_icons=true&locale=en" alt="ankonchy" /></p>
